@@ -18,7 +18,7 @@ ________________________________________________________________________________
 📂 Example Folder Structure
 ___________________________________________________________________________________________________________________________________________________________________
 Here’s an example of how the folders should look for one participant (same format for everyone):
-
+```text
 Web-Technology-Bridge-Course-2026/
 ├── anuja/
 │   ├── Day-1/
@@ -36,7 +36,7 @@ Web-Technology-Bridge-Course-2026/
 │           ├── l4a.html
 │           └── l4a.css 
 
-
+```
 ___________________________________________________________________________________________________________________________________________________________________
 1.Complete all the assignments within the given time.
 
