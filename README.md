@@ -15,7 +15,7 @@ This challenge was created to help everyone revise and practice HTML and CSS fro
 Here’s an example of how the folders should look for one participant (same format for everyone):
 
 Web-Technology-Bridge-Course-2026/
-├── prathmesh/
+├── anuja/
 │   ├── Day-1/
 │   │   ├── Lesson-1/
 │   │   │   ├── l1a.html
@@ -32,13 +32,12 @@ Web-Technology-Bridge-Course-2026/
 │           └── l4a.css
 
 
+___________________________________________________________________________________________________________________________________________________________________
 1.Complete all the assignments within the given time.
 2.Add your files in your respective folder.
 3.Push your changes to your feature branch and raise a Pull Request (PR) against the main branch.
 4.Help others and discuss solutions in a supportive environment.
-
-
-
+___________________________________________________________________________________________________________________________________________________________________
 📣 Let’s Code and Grow Together!
 If you have questions or suggestions, feel free to create issues or start discussions in this repository. Let’s make this learning experience collaborative and fun! 🚀
 
